@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarinaHeci
+- 👋 Hi, I’m NinaMandarina
 - 👀 I’m interested in Web3, Web design
 - 🌱 I’m currently learning Solidity 
 - 💞️ I’m looking to collaborate on Smart Contracts 
